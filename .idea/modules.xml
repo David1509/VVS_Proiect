@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VVS Proiect.iml" filepath="$PROJECT_DIR$/VVS Proiect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VVSWebServer.iml" filepath="$PROJECT_DIR$/VVSWebServer.iml" />
     </modules>
   </component>
 </project>

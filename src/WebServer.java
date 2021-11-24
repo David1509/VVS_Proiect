@@ -201,7 +201,7 @@ public class WebServer extends Thread {
 
 class Main {
     public static void main(String[] args) {
-        WebServer Server = new WebServer(8080, "E:/VVSWebServer/TestFiles", "Running");
+        WebServer Server = new WebServer(8080, "C:/Users/paund/Desktop/PaginiWeb", "Running");
         for (;;) {
             try {
                 Server.handleRequest();
